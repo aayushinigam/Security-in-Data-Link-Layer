@@ -14,4 +14,7 @@
 4. The application is now running and you can start sending messages.
 
 
+**Below is the screenshot of the working application woth 3 clients and a server :**
+![screenshot of the application](https://github.com/aayushinigam/Security-in-Data-Link-Layer/blob/master/ss.png)
+
 
